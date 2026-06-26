@@ -1,0 +1,56 @@
+{
+  "event": "FINAL FANTASY II RTA Raid Relay 2026",
+  "totalTime": "24:07:29",
+  "source": "FF2RRR2026Ending.pdf (p.8) / FF2RRR2026Archiveinfo.txt",
+  "note": "2026 は horaro 不使用。リザルトは PDF、アーカイブは連絡メモより。",
+  "runners": [
+    {
+      "name": "かしわめ", "channel": "htkswm", "channelUrl": "https://www.twitch.tv/htkswm",
+      "platform": "Pixel Remaster",
+      "runs": [
+        { "category": "Any%",          "time": "2:20:50", "archive": "https://www.youtube.com/watch?v=zG65YRTU_f8" },
+        { "category": "BOOST NO Sword", "time": "1:59:14", "archive": "https://www.youtube.com/watch?v=3kaK89JN9Yo" },
+        { "category": "BOOST NO Sword", "time": "1:40:00", "retired": true, "archive": "https://www.youtube.com/watch?v=t4dg0l9b_JI" },
+        { "category": "NO BloodSword",  "time": "2:43:50", "archive": "https://www.youtube.com/watch?v=435wZTambes" }
+      ]
+    },
+    {
+      "name": "かしわ親方", "channel": "kashiwa_oyakata", "channelUrl": "https://www.twitch.tv/kashiwa_oyakata",
+      "platform": "Pixel Remaster",
+      "runs": [
+        { "category": "Any%", "time": "2:09:34", "archive": "https://www.twitch.tv/kashiwa_oyakata/v/2704726270", "archiveLabel": "Twitchダイジェスト" }
+      ]
+    },
+    {
+      "name": "sphie", "channel": "sphie_twitch", "channelUrl": "https://www.twitch.tv/sphie_twitch",
+      "platform": "Pixel Remaster",
+      "runs": [
+        { "category": "Any%",           "time": "2:10:42", "archive": "https://youtu.be/y1SOKKabR84" },
+        { "category": "Any% no growth", "time": "1:26:50", "archive": "https://youtu.be/Vys6FNGupgI" }
+      ]
+    },
+    {
+      "name": "シレイユ", "channel": "cileil_7", "channelUrl": "https://www.twitch.tv/cileil_7",
+      "platform": "Pixel Remaster",
+      "runs": [
+        { "category": "Beat Borghen", "time": "0:45:03", "archive": "https://youtu.be/TDQL1RPuRkY" }
+      ]
+    },
+    {
+      "name": "えくい", "channel": "EQUI_TWITCH", "channelUrl": "https://www.twitch.tv/EQUI_TWITCH",
+      "platform": "GBA",
+      "archiveNote": "2連続走行を1アーカイブにまとめて公開",
+      "runs": [
+        { "category": "つよつよでーたでSoRをRTA", "time": "0:34:17", "archive": "https://www.youtube.com/watch?v=eEm9FdmpeOo" },
+        { "category": "開始～SoR区間RTA",       "time": "4:26:00", "archive": "https://www.youtube.com/watch?v=eEm9FdmpeOo" }
+      ]
+    },
+    {
+      "name": "seri", "channel": "seri17723", "channelUrl": "https://www.twitch.tv/seri17723",
+      "platform": "Pixel Remaster",
+      "runs": [
+        { "category": "常時オートバトル縛り", "time": "3:51:09", "archive": "https://www.twitch.tv/videos/2704770602" }
+      ]
+    }
+  ]
+}

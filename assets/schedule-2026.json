@@ -1,0 +1,17 @@
+{
+  "event": "FINAL FANTASY II RTA Raid Relay 2026",
+  "date": "2026-02-22",
+  "note": "時間は開始からの経過（24時間）。出典: FF2RRR2026スケジュール - スケジュール.pdf / Twitch raid コマンド",
+  "items": [
+    { "slot": "0:00–2:30",   "runner": "かしわめ",   "platform": "Pixel Remaster (Win)", "category": "通常PRFF2",                       "channel": "htkswm",          "channelUrl": "https://www.twitch.tv/htkswm" },
+    { "slot": "2:30–5:00",   "runner": "かしわ親方", "platform": "Pixel Remaster (Win)", "category": "通常PRFF2",                       "channel": "kashiwa_oyakata", "channelUrl": "https://www.twitch.tv/kashiwa_oyakata" },
+    { "slot": "5:00–6:30",   "runner": "かしわめ",   "platform": "Pixel Remaster (Win)", "category": "PRFF2 BOOST No Sword",            "channel": "htkswm",          "channelUrl": "https://www.twitch.tv/htkswm" },
+    { "slot": "6:30–9:00",   "runner": "sphie",      "platform": "Pixel Remaster (Win)", "category": "通常PRFF2",                       "channel": "sphie_twitch",    "channelUrl": "https://www.twitch.tv/sphie_twitch" },
+    { "slot": "9:00–10:00",  "runner": "シレイユ",   "platform": "Pixel Remaster (Win)", "category": "ボーゲン撃破",                    "channel": "cileil_7",        "channelUrl": "https://www.twitch.tv/cileil_7" },
+    { "slot": "10:00–12:30", "runner": "かしわめ",   "platform": "Pixel Remaster (Win)", "category": "通常PRFF2 → PRFF2 BOOST No Sword", "channel": "htkswm",          "channelUrl": "https://www.twitch.tv/htkswm" },
+    { "slot": "12:30–16:20", "runner": "えくい",     "platform": "GBA",                  "category": "つよつよでーたでSoRをRTA・GBA版RTA", "channel": "EQUI_TWITCH",     "channelUrl": "https://www.twitch.tv/EQUI_TWITCH" },
+    { "slot": "16:20–20:20", "runner": "seri",       "platform": "Pixel Remaster (Win)", "category": "Any% 常時オートバトル縛り",        "channel": "seri17723",       "channelUrl": "https://www.twitch.tv/seri17723" },
+    { "slot": "20:20–21:50", "runner": "sphie",      "platform": "Pixel Remaster (Win)", "category": "any% no growth",                 "channel": "sphie_twitch",    "channelUrl": "https://www.twitch.tv/sphie_twitch" },
+    { "slot": "21:50–24:00", "runner": "かしわめ",   "platform": "Pixel Remaster (Win)", "category": "初めてやるPRFF2ブラソ禁止RTA",    "channel": "htkswm",          "channelUrl": "https://www.twitch.tv/htkswm" }
+  ]
+}

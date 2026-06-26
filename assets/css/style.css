@@ -168,6 +168,18 @@ h1.page-title, h2.page-title {
 }
 .runner .yt img { height: 20px; width: auto; }
 
+/* 複数走行（1走者で複数カテゴリ）の表示 */
+.runner .runs { display: flex; flex-direction: column; gap: 9px; margin-top: 4px; }
+.runner .run { border-top: 1px dashed var(--line); padding-top: 8px; }
+.runner .run:first-child { border-top: 0; padding-top: 0; }
+.runner .run .cat { display: block; color: var(--ink); font-weight: 700; font-size: .92rem; }
+.runner .run .rtime {
+  font-family: var(--round); font-weight: 700; font-size: 1.2rem; color: var(--accent);
+}
+.runner .run .retire { color: var(--ink-soft); font-weight: 700; font-size: .76rem; margin-left: 6px; }
+.runner .run .links { margin-top: 2px; }
+.runner .run .pending { color: var(--ink-soft); font-size: .82rem; }
+
 /* ---------- Schedule table ---------- */
 .sched-wrap { overflow-x: auto; border-radius: var(--radius); box-shadow: var(--shadow); }
 table.sched {
@@ -175,9 +187,10 @@ table.sched {
   font-size: .9rem; min-width: 640px;
 }
 table.sched th {
-  background: var(--bg); color: var(--ink);
+  background: var(--bar); color: var(--ink);
   font-family: var(--round); font-weight: 700;
   padding: 10px 12px; text-align: left; white-space: nowrap;
+  border-bottom: 2px solid var(--bar-line);
 }
 table.sched td { padding: 9px 12px; border-top: 1px solid var(--line); vertical-align: top; }
 table.sched tr:nth-child(even) td { background: #fcf6ff; }
