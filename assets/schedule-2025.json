@@ -1,0 +1,22 @@
+{
+  "event": "FINAL FANTASY II RTA Raid Relay 2025",
+  "timezone": "Asia/Tokyo",
+  "startDate": "2025-02-21",
+  "endsAt": "04:55:00",
+  "totalTime": "27:30:24",
+  "source": "https://horaro.org/ff2rrr/2025",
+  "items": [
+    { "date": "2025-02-21", "time": "23:30", "game": "(Opening)",        "estimate": "00:15:00", "runner": "かしわめ",   "category": "-",                          "edition": "-",                       "channel": "htkswm",          "channelUrl": "https://www.twitch.tv/htkswm" },
+    { "date": "2025-02-21", "time": "23:50", "game": "FINAL FANTASY II",  "estimate": "02:30:00", "runner": "かしわめ",   "category": "Any%",                       "edition": "Pixel Remaster (STEAM)",  "channel": "htkswm",          "channelUrl": "https://www.twitch.tv/htkswm" },
+    { "date": "2025-02-22", "time": "02:25", "game": "FINAL FANTASY II",  "estimate": "02:10:00", "runner": "ぽっさ",     "category": "Any%",                       "edition": "Pixel Remaster (Windows)","channel": "possa1234",       "channelUrl": "https://www.twitch.tv/possa1234" },
+    { "date": "2025-02-22", "time": "04:40", "game": "FINAL FANTASY II",  "estimate": "02:20:00", "runner": "かしわ親方", "category": "Any%",                       "edition": "Pixel Remaster (Windows)","channel": "kashiwa_nangoku", "channelUrl": "https://www.twitch.tv/kashiwa_nangoku" },
+    { "date": "2025-02-22", "time": "07:05", "game": "FINAL FANTASY Ⅱ",  "estimate": "00:25:00", "runner": "かしわ親方", "category": "Beat Borghen",               "edition": "Pixel Remaster (Windows)","channel": "kashiwa_nangoku", "channelUrl": "https://www.twitch.tv/kashiwa_nangoku" },
+    { "date": "2025-02-22", "time": "07:35", "game": "FINAL FANTASY II",  "estimate": "03:30:00", "runner": "sphie",      "category": "たたかう、逃走禁止（ブーストあり）", "edition": "Pixel Remaster (Windows)","channel": "sphie_twitch",    "channelUrl": "https://www.twitch.tv/sphie_twitch" },
+    { "date": "2025-02-22", "time": "11:10", "game": "FINAL FANTASY II",  "estimate": "01:00:00", "runner": "シレイユ",   "category": "Beat Borghen",               "edition": "Pixel Remaster (Windows)","channel": "cileil_7",        "channelUrl": "https://www.twitch.tv/cileil_7" },
+    { "date": "2025-02-22", "time": "12:15", "game": "FINAL FANTASY II",  "estimate": "04:25:00", "runner": "えくい",     "category": "神経衰弱ありSoR込み",         "edition": "GBA",                     "channel": "EQUI_TWITCH",     "channelUrl": "https://www.twitch.tv/EQUI_TWITCH" },
+    { "date": "2025-02-22", "time": "16:45", "game": "FINAL FANTASY II",  "estimate": "03:50:00", "runner": "seri",       "category": "Defeat Deumion",             "edition": "PSP",                     "channel": "seri17723",       "channelUrl": "https://www.twitch.tv/seri17723" },
+    { "date": "2025-02-22", "time": "20:40", "game": "FINAL FANTASY II",  "estimate": "05:25:00", "runner": "マスターT",  "category": "No Blood Sword",             "edition": "FC",                      "channel": "mastertrta",      "channelUrl": "https://www.twitch.tv/mastertrta" },
+    { "date": "2025-02-23", "time": "02:10", "game": "(Ending)",         "estimate": "00:15:00", "runner": "かしわめ",   "category": "-",                          "edition": "-",                       "channel": "htkswm",          "channelUrl": "https://www.twitch.tv/htkswm" },
+    { "date": "2025-02-23", "time": "02:30", "game": "FINAL FANTASY Ⅱ",  "estimate": "02:25:00", "runner": "Deln",       "category": "Any%",                       "edition": "Pixel Remaster (PS5)",    "channel": "Deln",            "channelUrl": "https://www.twitch.tv/deln", "special": true }
+  ]
+}
