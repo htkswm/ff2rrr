@@ -71,9 +71,20 @@ img { max-width: 100%; height: auto; display: block; }
   box-shadow: var(--shadow);
   min-width: 130px; padding: 6px; display: none;
 }
-.dropdown:hover .menu { display: block; }
-.dropdown .menu a { display: block; color: var(--ink); }
+.dropdown:hover .menu,
+.dropdown.open .menu { display: block; }
+.dropdown .menu a { display: block; color: var(--ink); padding: 10px 14px; }
 .dropdown .menu a:hover { background: var(--accent-soft); text-decoration: none; }
+
+/* 記録ページの年度切替（タブレットでも押しやすい常時表示） */
+.year-switch { display: flex; justify-content: center; gap: 8px; margin: 0 auto 20px; }
+.year-switch a {
+  font-family: var(--round); font-weight: 700; font-size: .95rem;
+  color: var(--ink); background: var(--card); border: 1px solid var(--line);
+  padding: 8px 20px; box-shadow: var(--shadow); line-height: 1;
+}
+.year-switch a:hover { text-decoration: none; background: var(--accent-soft); }
+.year-switch a.active { background: var(--bar); border-color: var(--bar-line); color: var(--ink); }
 
 /* ---------- Layout ---------- */
 main { max-width: var(--maxw); margin: 0 auto; padding: 36px 18px 10px; }
